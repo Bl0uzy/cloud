@@ -1,0 +1,37 @@
+14:16 : Admin -> suppresion du fichier "Anatomie TD1.docx" dans le dossier "Groupe1" reussi
+14:20 : Admin -> uplaod du fichier "IMG_20171120_080451.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:20 : Admin -> uplaod du fichier "IMG_20171120_082526.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:20 : Admin -> uplaod du fichier "IMG_20171120_084618.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:20 : Admin -> uplaod du fichier "IMG_20171120_091209.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:20 : Admin -> uplaod du fichier "IMG_20171120_092925.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Anglais-Semester-1-CM-2.pdf" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Application biomécanique en sport et en médecine.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Bioméca CM4.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "CM-2-psychopathologie.pdf" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "CM01 anglais présent.pdf" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Course d'orientation.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20170912_104946.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20170912_112651.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20170922_104453.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20170922_110754.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20170922_113116.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20171003_173440.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20171115_135031.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20171120_080451.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+14:21 : Admin -> uplaod du fichier "IMG_20171120_082526.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+14:21 : Admin -> uplaod du fichier "IMG_20171120_084618.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+14:21 : Admin -> uplaod du fichier "IMG_20171120_091209.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+14:21 : Admin -> uplaod du fichier "IMG_20171120_092925.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+14:21 : Admin -> uplaod du fichier "IMG_20171120_094831.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20171127_080243.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "IMG_20171127_085739.jpg" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Gymnastique acrobatique-CM1.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+14:21 : Admin -> uplaod du fichier "Intro a la bioméca.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf/" résussi
+15:16 : Louis -> suppresion du fichier "Course d'orientation.docx" dans le dossier "Groupe1/tes2/refsdf/tefsdf" reussi
+15:18 : Louis -> suppresion du fichier "Application biomécanique en sport et en médecine.docx" dans le dossier "Groupe1" reussi
+15:19 : Louis -> suppresion du fichier "Capture.PNG" dans le dossier "Groupe1" reussi
+15:20 : Louis -> suppresion du fichier "Anglais-Semester-1-CM-2.pdf" dans le dossier "Groupe3" reussi
+15:20 : Louis -> suppresion du fichier "34703310.jpg" dans le dossier "Groupe3" reussi
+15:21 : Louis -> suppresion du fichier "CM01 anglais présent.pdf" dans le dossier "Groupe1/tes2/refsdf/tefsdf" reussi
+15:21 : Louis -> suppresion du fichier "IMG_20170912_104946.jpg" dans le dossier "Groupe2" reussi
+15:21 : Louis -> suppresion du fichier "Document 1.docx" dans le dossier "Groupe3" reussi

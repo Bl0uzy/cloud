@@ -1,0 +1,11 @@
+09:26 : Louis -> uplaod du fichier "Exo2.xlsx" dans le dossier "Groupe1/TestDuDossier/" résussi
+09:26 : Louis -> uplaod du fichier "Exo2.xlsx" dans le dossier "Groupe1/TestDuDossier/" a ecrasé l'ancien fichier
+09:40 : Louis -> uplaod du fichier "Day-5-Noted-Quiz-3AGIL_-3AGIL-Agile-Developer_Manager.pdf" dans le dossier "Groupe1/tes2/refsdf/refsdf/fdgddg/" réussi
+09:42 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "Groupe1/tes2/refsdf/refsdf/fdgddg/" réussi
+09:44 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "Groupe1/tes2/refsdf/refsdf/fdgddg/" a ecrasé l'ancien fichier
+10:01 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "Groupe3/" réussi
+10:02 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "Groupe1/" a ecrasé l'ancien fichier
+10:02 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "Groupe3/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+10:14 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "DJ/" réussi
+10:15 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "DJ/" échoué car l'utilisateur n'a pas l'autorisation d'écraser les fichiers
+10:18 : Louis -> uplaod du fichier "How I Met your Mother S09.torrent" dans le dossier "b/" réussi
